@@ -21,7 +21,7 @@
 
   ## Video-Walkthrough
 
-
+  [Social Network API - Module 18 Challenge - Michael Bullock.webm](https://github.com/mbullock710/Social-Network-API/assets/148500556/f2e311f2-cebc-4180-b421-07e7dcc3cee5)
 
   ## Questions
 
